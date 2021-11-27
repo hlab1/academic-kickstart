@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Major orchestration of shikimate, early phenylpropanoid and stilbenoid pathways by Subgroup 2 R2R3-MYBs in grapevine"
-authors: ["Luis Orduña", "Miaomiao Li", "David Navarro-Payá", "Chen Zhang", "Antonio Santiago", "Pablo Romero", "Živa Ramšak", "Gabriele Magon", "Janine Höll", "Patrik Merz", "Kristina Gruden", "Alessandro Vannozzi", "Dario Cantu", "Jochen Bogs", "Darren C. J. Wong", "**Shao-shan C. Huang**", "José Tomás Matus"]
+authors: ["Luis Orduña", "Miaomiao Li", "David Navarro-Payá", "Chen Zhang", "Antonio Santiago", "Pablo Romero", "Živa Ramšak", "Gabriele Magon", "Janine Höll", "Patrik Merz", "Kristina Gruden", "Alessandro Vannozzi", "Dario Cantu", "Jochen Bogs", "Darren C. J. Wong", "**Shao&hyphen;shan Carol Huang**", "José Tomás Matus"]
 date: 2021-08-23
 doi: "10.1101/2020.12.31.424746"
 
