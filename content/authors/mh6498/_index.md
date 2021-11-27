@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD, Genetics
     institution: University of Cologne, International Max Planck Research School
-    year: 2013
+    year: 2010
 
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
