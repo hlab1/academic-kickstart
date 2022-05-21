@@ -1,0 +1,33 @@
+---
+title: Joining the lab
+date: '2022-01-01'
+slug: joining-the-lab
+categories:
+  - joining the lab
+tags:
+  - joining the lab
+subtitle: ''
+summary: 'Looking to join our lab?'
+authors: [ch153]
+
+lastmod: '2022-05-20T10:29:00-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+### We welcome inquiries for current openings in the lab.
+We aim to build a highly interdisciplinary and collaborative lab, and are committed to provide a supportive environment for lab members to achieve scientific excellence and gain expertise in both computational and experimental skills.
+
+### Prospective postdocs 
+The ideal candidate will hold a PhD in genetics/genomics, molecular biology, plant biology, ecology/evolution or computational biology, a track record or first- or co-first-author peer-reviewed publications.  Please email CV including a list of publication and a cover letter/email with brief description of your present and future research interest.
+
+### Prospective PhD students
+We accept PhD students admitted to the NYU Biology PhD program.  Up-to-date information about the program and application can be found at this website https://as.nyu.edu/content/nyu-as/as/departments/biology/academics/phd.html. We do not offer direct admissions to our lab, but students with strong background in computer science, computational biology and genomics and interest in pursuing plant genomics are welcome to contact the PI.
+
+### Prospective Masters and Undergraduate students
+Students in NYU Masters or Undergraduate programs interested in doing research in the lab may email the PI with the following information: latest resume (CV), transcript, GitHub handle or sample code (if available).
+
