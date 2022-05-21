@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Uncovering the \\"ZIP code\\" for bZIP dimers reveals novel motifs, regulatory rules and one billion years of cis-element evolution"
+title: "Uncovering the \"ZIP code\" for bZIP dimers reveals novel motifs, regulatory rules and one billion years of cis-element evolution"
 authors: ["Miaomiao Li", "Wanru Lin", "Will Hinckley", "Tao Yao", "Wellington Muchero", "Jin-Gui Chen", "**Shao&hyphen;shan Carol Huang**"]
 date: 2022-04-17
 doi: "10.1101/2022.04.17.488518"
