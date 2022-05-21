@@ -14,8 +14,8 @@
   weight = 20
 
 [[main]]
-  name = "Open positions"
-  url = "/2020/11/29/lab-openings-nsf-nih/"
+  name = "Joining the lab"
+  url = "/2022/01/01/joining/"
   weight = 30
 
 #[[main]]
