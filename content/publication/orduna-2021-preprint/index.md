@@ -26,7 +26,7 @@ abstract: "The stilbenoid pathway is responsible for the production of resveratr
 
 #tags: []
 #categories: []
-featured: true
+featured: false
 share: false
 
 # Custom links (optional).
