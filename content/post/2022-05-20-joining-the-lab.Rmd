@@ -1,6 +1,6 @@
 ---
 title: "Joining the lab"
-date: '2022-01-01'
+date: '2022-05-20'
 slug: joining-the-lab
 categories: joining the lab
 tags: joining the lab
