@@ -14,3 +14,6 @@ LaTeX: pdfLaTeX
 
 AutoAppendNewline: Yes
 StripTrailingWhitespace: Yes
+
+BuildType: Website
+WebsitePath: ~/dir_by_type/devel/academic-kickstart

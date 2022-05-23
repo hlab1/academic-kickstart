@@ -1,15 +1,14 @@
 ---
-title: Postdoc position available! (November 2020)
+title: "Postdoc position available! (November 2020)"
 date: '2020-11-29'
 slug: lab-openings-nsf-nih
-categories:
-  - lab news
-tags:
-  - lab news
+categories: lab news
+tags: lab news
 subtitle: ''
-summary: 'We are looking for a postdoc scientist with experience in regulatory genomics for projects supported by our NSF Plant Genomes and NIH R35/MIRA awards.'
-authors: [ch153]
-
+summary: We are looking for a postdoc scientist with experience in regulatory genomics
+  for projects supported by our NSF Plant Genomes and NIH R35/MIRA awards.
+authors:
+  - ch153
 lastmod: '2020-11-29T01:28:23-04:00'
 featured: no
 image:
