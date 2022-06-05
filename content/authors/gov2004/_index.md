@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Graeme Vissers
-weight: 30
+weight: 31
 
 # Username (this should match the folder name)
 authors:
