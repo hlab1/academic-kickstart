@@ -75,6 +75,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 Wanru Lin is a current Master student in the department of Biology at New York University. Her research interest is about using NGS data to understand the transcription factors involved in gene regulatory network for hormone responses in plants, especially Arabidopsis thailiana. Wanru’s goal is to become a strong candidate in positions about NGS data analysis and expand her research and NGS technology to more plants.
