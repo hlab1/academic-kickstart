@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Mastsers Student
+role: Masters Student
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +32,7 @@ education:
   courses:
   - course: MS, Biology (Bioinformatics Track)
     institution: New York University
-    year: 2022 (expected)
+    year: 2022
   - course: BSc, Agriculture
     institution: College of Horticulture, Northwest A&F University, China
     year: 2016
