@@ -16,7 +16,7 @@ publishDate: 2020-11-29T16:56:52-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Current Opinion in Systems Biology"
+publication: "*Current Opinion in Systems Biology*"
 #publication_short: ""
 
 abstract: "Gene regulatory networks (GRNs) model the interactions between gene expression regulators and their targets that mediate a myriad of biological functions. Constructing GRNs that integrate multiple data types at increased resolution is improving our understanding of the complex regulatory mechanisms controlling different biological processes in plants. Going beyond transcription factor binding and transcriptome profiles, GRNs that incorporate multiple data types, including chromatin accessibility and long-range chromatin interaction, transcription factor binding site motifs, microRNA, ribosome-associated RNA, and proteomic profiles, were constructed for several cell types and multiple species. The rise of single-cell RNA-seq applications in plants opens up possibilities for studying cell type?specific GRNs in the processes of cell differentiation, development, and responses to the environment. Applications of high-throughput reporter assays and genome editing technologies allow large-scale validation of GRNs. Future advances in refining plant GRNs will most likely involve integration of multi-omics single-cell data and methods for cross-species model translation."

@@ -16,7 +16,7 @@ publishDate: 2021-11-26T00:00:01-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Current Opinion in Plant Biology"
+publication: "*Current Opinion in Plant Biology*"
 #publication_short: ""
 
 abstract: "Single-cell genomics, particularly single-cell transcriptome profiling by RNA sequencing have transformed the possibilities to relate genes to functions, structures, and eventually phenotypes. We can now observe changes in each cell's transcriptome and among its neighborhoods, interrogate the sequence of transcriptional events, and assess their influence on subsequent events. This paradigm shift in biology enables us to infer causal relationships in these events with high accuracy. Here we review the latest single-cell studies in plants that uncover how cellular phenotypes emerge as a result of the transcriptome process such as waves of expression, trajectories of development and responses to the environment, and spatial information. With an eye on the advances made in animal and human studies, we further highlight some of the needed areas for future research and development, including computational methods."
