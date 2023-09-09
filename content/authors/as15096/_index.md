@@ -73,7 +73,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Dr. Abbas Shojaee MD, CHDA, is a seasoned biomedical/health data scientist with over two decades of experience in medical informatics, outcomes research, and advanced analytics in the healthcare domain. His expertise spans across startups, large corporations, and academia.
