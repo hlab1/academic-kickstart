@@ -12,6 +12,7 @@ superuser: false
 
 # Role/position
 role: Masters Student
+external_link: https://www.linkedin.com/in/wanru-lin-69b2b4213
 
 # Organizations/Affiliations
 organizations:

@@ -1,6 +1,8 @@
 ---
 # Display name
-title: Nathanial Angeles
+title: Nathaniel Angeles
+weight: 70
+
 
 # Username (this should match the folder name)
 authors:

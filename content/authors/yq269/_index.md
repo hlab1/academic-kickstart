@@ -13,6 +13,8 @@ superuser: false
 
 # Role/position
 role: Postdoc Associate
+external_link: https://scholar.google.com/citations?user=8VjujHsAAAAJ&hl=en
+
 
 # Organizations/Affiliations
 organizations:

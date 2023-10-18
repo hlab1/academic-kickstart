@@ -12,6 +12,7 @@ superuser: false
 
 # Role/position
 role: Masters Student
+external_link: https://www.linkedin.com/in/michelle-saavedra-4b5497179/
 
 # Organizations/Affiliations
 organizations:

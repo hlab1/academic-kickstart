@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Diogo Mesquita
+weight: 70
 
 # Username (this should match the folder name)
 authors:
@@ -11,6 +12,7 @@ superuser: false
 
 # Role/position
 role: Research Assistant
+external_link: https://www.linkedin.com/in/dmesq
 
 # Organizations/Affiliations
 organizations:

@@ -12,6 +12,7 @@ superuser: false
 
 # Role/position
 role: Research Scientist
+external_link: https://www.linkedin.com/in/ashojaee
 
 # Organizations/Affiliations
 organizations:
