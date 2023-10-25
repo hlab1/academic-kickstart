@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nathaniel Angeles
+title_alumni: Nathaniel Angeles
 weight: 70
 
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Michelle Saavedra
+title_alumni: Michelle Saavedra
 weight: 50
 
 # Username (this should match the folder name)

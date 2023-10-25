@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wanru Lin
+title_alumni: Wanru Lin
 weight: 50
 
 # Username (this should match the folder name)

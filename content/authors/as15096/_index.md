@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Abbas Shojaee
+title_alumni: Abbas Shojaee
 weight: 10
 
 # Username (this should match the folder name)

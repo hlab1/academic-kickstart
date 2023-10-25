@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yichun Qian
+title_alumni: Yichun Qian
 weight: 10
 
 

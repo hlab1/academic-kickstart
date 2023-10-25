@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Diogo Mesquita
+title_alumni: Diogo Mesquita
 weight: 70
 
 # Username (this should match the folder name)

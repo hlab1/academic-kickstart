@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nabila Zaman
+title_alumni: Nabila Zaman
 weight: 50
 
 # Username (this should match the folder name)
