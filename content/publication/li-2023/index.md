@@ -44,7 +44,7 @@ links: [
 #url_code:
 #url_dataset:
 #url_poster:
-#url_project:
+url_project: "http://hlab.bio.nyu.edu/projects/bzip_code"
 #url_slides:
 #url_source:
 #url_video:
