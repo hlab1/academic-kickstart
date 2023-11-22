@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Potentials of single-cell genomics in deciphering cellular phenotype"
-authors: ["Abbas Shojaee","Michelle Saavedra","**Shao&hyphen;shan C. Huang**"]
+authors: ["Abbas&nbsp;Shojaee","Michelle Saavedra","**Shao&hyphen;shan C. Huang**"]
 date: 2021-10-01
 doi: "10.1016/j.pbi.2021.102059"
 

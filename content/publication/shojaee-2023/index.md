@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Robust discovery of gene regulatory networks from single-cell gene expression data by Causal Inference Using Composition of Transactions"
-authors: ["Abbas Shojaee","**Shao&hyphen;shan Carol Huang**"]
+authors: ["Abbas&nbsp;Shojaee","**Shao&hyphen;shan Carol Huang**"]
 date: 2023-11-01
 doi: "10.1093/bib/bbad370"
 
