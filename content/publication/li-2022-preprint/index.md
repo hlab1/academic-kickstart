@@ -26,7 +26,7 @@ abstract: "Many eukaryotic transcription factors (TF) form homodimer or heterodi
 
 #tags: []
 #categories: []
-featured: true
+featured: false
 share: false
 
 # Custom links (optional).
