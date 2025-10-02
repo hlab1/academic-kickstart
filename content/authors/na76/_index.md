@@ -1,7 +1,7 @@
 ---
 # Display name
 title_alumni: Nathaniel Angeles
-weight: 70
+weight: 799
 
 
 # Username (this should match the folder name)

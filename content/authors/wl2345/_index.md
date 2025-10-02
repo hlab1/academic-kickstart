@@ -1,7 +1,7 @@
 ---
 # Display name
 title_alumni: Wanru Lin
-weight: 50
+weight: 594
 
 # Username (this should match the folder name)
 authors:

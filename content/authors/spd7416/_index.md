@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Sean Doyle
-weight: 60
+title_alumni: Sean Doyle
+weight: 796
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,8 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate student
+role: Research Assistant & Undergraduate Student
+external_link: https://www.linkedin.com/in/sean-p-doyle/
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +74,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 

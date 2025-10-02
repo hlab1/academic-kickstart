@@ -1,20 +1,18 @@
 ---
 # Display name
-title_alumni: Yichun Qian
-weight: 199
-
+title_alumni: Stella Zhang
+weight: 999
 
 # Username (this should match the folder name)
 authors:
-- yq269
+- syz248
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoc Associate
-external_link: https://scholar.google.com/citations?user=8VjujHsAAAAJ&hl=en
-
+role: Undergraduate Student
+external_link: https://www.linkedin.com/in/stella-zhang-3828b8228/
 
 # Organizations/Affiliations
 organizations:
@@ -33,24 +31,21 @@ organizations:
 
 education:
   courses:
-  - course: PhD, Plant Biochemistry and Molecular Biology
-    institution: Purdue University
-    year: 2019
-  - course: MSc, Statistics
-    institution: Purdue University
-    year: 2017
-  - course: BSc, Bioinformatics
-    institution: Zhejiang University, China
-    year: 2011
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:yq269@nyu.edu'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:ml6535@nyu.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -60,6 +55,9 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/nabila-r-zaman-13160a167
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Miaomiao Li
-weight: 10
+title_alumni: Miaomiao Li
+weight: 197
 
 # Username (this should match the folder name)
 authors:
@@ -12,6 +12,7 @@ superuser: false
 
 # Role/position
 role: Postdoc Associate
+external_link: https://www.ornl.gov/staff-profile/miaomiao-li
 
 # Organizations/Affiliations
 organizations:
@@ -69,6 +70,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 

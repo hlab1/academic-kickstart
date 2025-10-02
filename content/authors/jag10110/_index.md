@@ -1,7 +1,7 @@
 ---
 # Display name
-title: José Galván Corona
-weight: 32
+title_alumni: José Galván Corona
+weight: 592
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,8 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: Masters Student
+external_link: https://www.linkedin.com/in/jose-agc
 
 # Organizations/Affiliations
 organizations:
@@ -77,7 +78,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 José Galván is a Biology PhD Student in the Graduate School of Arts and Sciences at New York University. He received his Bachelor’s degree in Cellular and Molecular Biology in 2022 from CUNY John Jay, where under the joint-mentorship of Dr. Nathan Lents and Dr. Hunter Johnson, he reported on the de novo evolution of microRNA genes in the human lineage, highlighting their underappreciated role in human evolution. He interned at the lab of Dr. John Pool where he used simulations and empirical data analysis to show that a site-specific signal of elevated genetic differentiation (Max-SNP Fst) can find instances of local adaptation that other approaches (Fst) miss. He also interned at the lab of Dr. Iliyan Iliev where he studied inflammatory bowel disease, focusing on characterizing the relationship between commensal fungi (mycobiota) and neighboring bacterial communities. José’s goal is to study the complexity of genome variation, regulation, and evolution within crop species. To that end he is focusing on the evolution of regulatory elements and their targets in Arabidopsis. 

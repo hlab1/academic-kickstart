@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Aurelia Li
-weight: 50
+title_alumni: Aurelia Li
+weight: 593
 
 # Username (this should match the folder name)
 authors:
@@ -12,6 +12,8 @@ superuser: false
 
 # Role/position
 role: Masters student
+external_link: https://www.linkedin.com/in/aureliali/
+
 
 # Organizations/Affiliations
 organizations:
@@ -80,6 +82,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 

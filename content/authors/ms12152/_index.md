@@ -1,7 +1,7 @@
 ---
 # Display name
 title_alumni: Michelle Saavedra
-weight: 50
+weight: 595
 
 # Username (this should match the folder name)
 authors:

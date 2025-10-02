@@ -1,20 +1,17 @@
 ---
 # Display name
-title_alumni: Yichun Qian
-weight: 199
-
+title: Kamal Radharamanan
+weight: 32
 
 # Username (this should match the folder name)
 authors:
-- yq269
+- kr3059
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoc Associate
-external_link: https://scholar.google.com/citations?user=8VjujHsAAAAJ&hl=en
-
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -33,15 +30,15 @@ organizations:
 
 education:
   courses:
-  - course: PhD, Plant Biochemistry and Molecular Biology
-    institution: Purdue University
-    year: 2019
-  - course: MSc, Statistics
-    institution: Purdue University
-    year: 2017
-  - course: BSc, Bioinformatics
-    institution: Zhejiang University, China
-    year: 2011
+  - course: Bachelor’s in Biomedical Engineering, Master’s in Electrical Engineering
+    institution: Georgia Tech
+
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,13 +47,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yq269@nyu.edu'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:kr3059' # For a direct email link, use "mailto:test@example.org".
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  link: 
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/graeme-vissers/
+#- icon: researchgate
+#  icon_pack: ai
+#  link: 
+#- icon: twitter
+#  icon_pack: fab
+#  link: 
+
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -72,6 +76,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 ---
+
+I am a PhD student co-advised by Joy Bergelson and Carol Huang. My research interest is in the molecular basis of plant-pathogen interactions, especially the protein-protein interactions that constitute effector-triggered immunity and differences between immune-recognition events. In the past, I was a software engineer working at various startups in various technical roles; and before that, I completed a Bachelor’s in Biomedical Engineering and a Master’s in Electrical Engineering at Georgia Tech. In my spare time, you may find me flaneuring about the beautiful city of New York, dabbling in the arts, and pretending at exercise.
 

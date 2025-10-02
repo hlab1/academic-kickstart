@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Tara Ghandour
-weight: 70
+title_alumni: Tara Ghandour
+weight: 591
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,8 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Masters Student & Research Assistant
+external_link: https://scholar.google.com/citations?user=_BQBvaQAAAAJ&hl=en
 
 # Organizations/Affiliations
 organizations:
@@ -79,7 +80,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Tara is a current Bioinformatics Masters student at Johns Hopkins University. She earned her Bachelor's degree at Wesleyan University, where she double majored in Molecular Biology & Biochemistry and Government, with a minor in Chemistry. She has researched Kabuki Syndrome in the Bjornsson lab at Johns Hopkins and policies for rare diseases and vaccination at Moderna. Her research interests include epigenetic histone modifications, epitranscriptomics, and transcription factor interactions. She is also passionate about rare disease advocacy and awareness. 
