@@ -1,0 +1,82 @@
+---
+# Display name
+title: Vera Vecherskaia
+weight: 91
+
+# Username (this should match the folder name)
+authors:
+- vv2228
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Undergraduate Student
+
+# Organizations/Affiliations
+organizations:
+- name: Center for Genomics and Systems Biology
+- name: Department of Biology
+- name: New York University
+  url: ""
+
+# Short bio (displayed in user profile at end of posts)
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
+
+education:
+  courses:
+  - course: BS Chemical & Biomolecular Engineering, Minor in Mathematics
+    institution: New York University Tandon School of Engineering
+    year: 2026 (expected)
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:vv2228' # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: linkedin
+  icon_pack: fab
+  link: linkedin.com/in/veravecherskaia
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/SPD3
+
+
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+---
+
+I am currently a senior in Chemical & Biomolecular Engineering at NYU Tandon. I’m interested in how cells make decisions, and how those decisions give rise to development, specialization, and disease. I joined the lab in Fall 2023, working on an R package for gene regulatory network (GRN) inference. My current work focuses on using single-cell RNA sequencing to predict how transcription-factor perturbations reshape developmental trajectories in Arabidopsis. In my free time, I enjoy drawing and crocheting.
+
+
